@@ -1,0 +1,4 @@
+[
+    { "todo": "something", "id": 1, "todoStatus": "incomplete", "date": "3/7/2022" },
+    { "todo": "nothing", "id": 2, "date": "3/7/2022", "todoStatus": "incomplete" }
+]

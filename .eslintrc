@@ -35,6 +35,8 @@
         "import/extensions": 0,
         "import/no-extraneous-dependencies": 0,
         "no-restricted-globals": 0,
+        "default-param-last": 0,
+
         "react/jsx-filename-extension": [
             1,
             {
